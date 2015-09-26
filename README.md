@@ -1,0 +1,2 @@
+# AVLTree
+Adelson-Velsky and Landis tree is a self-balancing binary search tree. The AVL tree implemented here is accepting integer key value. The operations supported are Insertion and Deletion. The key point when compared to a Binary tree is, the AVL tree self-balance the node height using a technique called Rotation. The tree implemented here perform 4 kinds of rotation namely right rotation, left rotation, right left rotation and left right rotation.
